@@ -1,5 +1,4 @@
-# JavaScript Hangman Game
-JavaScript hangman game
+# Hangman Game
 
 The JavaScript Hangman Game is an exciting and addictive vanilla JavaScript application that brings the classic game of Hangman to life on your screen. This HTML-based game is not only interactive but also visually appealing, offering an engaging experience for players of all ages.
 
@@ -16,9 +15,9 @@ The aesthetic appeal of this HTML Hangman game is worth noting. Its sleek design
 Whether you're a word game enthusiast or simply looking for a fun way to pass the time, the JavaScript Hangman Game is a must-try. Its simplicity, combined with its engaging interface, ensure hours of entertainment. So put your puzzle-solving skills to the test and see if you can master the art of Hangman while having a blast with this fantastic JavaScript game.
 
 # Demo
-https://www.yusufsezer.com/projects/javascript-hangman-game/
+https://sweety-vigneshg.github.io/Hang-Man-Puzzle/
 
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-Created by [Yusuf Sezer](https://www.yusufsezer.com)
+Created by [ Vignesh G ](https://vigneshgbe.unaux.com)
